@@ -1,0 +1,12 @@
+.todoItems-done{
+    background: rgb(74,157,247);
+    background: linear-gradient(90deg, rgba(74,157,247,1) 0%, rgba(110,101,224,1) 100%);
+    text-decoration: line-through;
+    color: #aaaaaa;
+}
+.todoItems{
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f8fa;
+    padding: 20px;
+}
